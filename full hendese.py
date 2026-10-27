@@ -1,0 +1,8 @@
+zel input("enter the zel of your squar")
+zel int(zel)
+masahat=(zel*zel)
+mohit=(zel*4) 
+print("masahat:")
+print(masahat)
+print("mohit:")
+print(mohit)
